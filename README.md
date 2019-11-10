@@ -32,6 +32,6 @@ go build -o pinger
 ```
 
 #### TODOs:
-- [ ] Add default instruction when there is no chatID or BotAPIKey
-- [ ] Use flag to parse allow default message to be reset
+- [ ] Add default helper message when there is no chatID or BotAPIKey
+- [ ] Use flag to parse customized message that could override default Ping
 - [ ] Add makefile to cross compile for all platforms 
