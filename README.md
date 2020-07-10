@@ -1,3 +1,5 @@
+![Go](https://github.com/an0sunshy/go-tg-pinger/workflows/Go/badge.svg)
+
 # go-tg-pinger
 
 A go telegram pinger sends a customized message or a ping to a specific telegram chat
